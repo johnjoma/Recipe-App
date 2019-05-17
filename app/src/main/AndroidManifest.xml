@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.tester">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo1"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/logo1"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainCourseFragment10"></activity>
+        <activity android:name=".MainCourseFragment9" />
+        <activity android:name=".MainCourseFragment8" />
+        <activity android:name=".MainCourseFragment7" />
+        <activity android:name=".MainCourseFragment6" />
+        <activity android:name=".MainCourseFragment5" />
+        <activity android:name=".MainCourseFragment4" />
+        <activity android:name=".MainCourseFragment3" />
+        <activity android:name=".MainCourseFragment2" />
+        <activity android:name=".MainCourseFragment" />
+        <activity android:name=".LunchFragment10" />
+        <activity android:name=".LunchFragment9" />
+        <activity android:name=".LunchFragment8" />
+        <activity android:name=".LunchFragment7" />
+        <activity android:name=".LunchFragment6" />
+        <activity android:name=".LunchFragment5" />
+        <activity android:name=".LunchFragment4" />
+        <activity android:name=".LunchFragment3" />
+        <activity android:name=".LunchFragment2" />
+        <activity android:name=".LunchFragment" />
+        <activity android:name=".BreakFastFragment10" />
+        <activity android:name=".BreakFastFragment9" />
+        <activity android:name=".BreakFastFragment8" />
+        <activity android:name=".BreakFastFragment7" />
+        <activity android:name=".BreakFastFragment6" />
+        <activity android:name=".BreakFastFragment5" />
+        <activity android:name=".BreakFastFragment4" />
+        <activity android:name=".BreakFastFragment3" />
+        <activity android:name=".BreakFastFragment2" />
+        <activity android:name=".BreakFastFragment" />
+        <activity
+            android:name=".Dessert"
+            android:label="@string/title_activity_dessert"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.tester.MainActivity" />
+        </activity>
+        <activity
+            android:name=".Salad"
+            android:label="@string/title_activity_salad"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.tester.MainActivity" />
+        </activity>
+        <activity
+            android:name=".Snacks"
+            android:label="@string/title_activity_snacks"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.tester.MainActivity" />
+        </activity>
+        <activity
+            android:name=".Side_dishes"
+            android:label="@string/title_activity_side_dishes"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.tester.MainActivity" />
+        </activity>
+        <activity
+            android:name=".MainCourse"
+            android:label="@string/title_activity_maincourse"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.tester.MainActivity" />
+        </activity>
+        <activity
+            android:name=".Dinner"
+            android:label="@string/title_activity_dinner"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.tester.MainActivity" />
+        </activity>
+        <activity
+            android:name=".BreakFast"
+            android:label="@string/title_activity_break_fast"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.tester.MainActivity" />
+        </activity>
+        <activity
+            android:name=".Lunch"
+            android:label="@string/title_activity_lunch"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.tester.MainActivity" />
+        </activity>
+        <activity android:name=".MainActivity" />
+        <activity
+            android:name=".splashscreen"
+            android:theme="@style/SplashTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

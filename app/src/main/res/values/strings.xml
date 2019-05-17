@@ -1,0 +1,1321 @@
+<resources>
+    <string name="app_name">Let\'s Cook</string>
+    <string name="splash">Welcome</string>
+
+
+    /* -----------BreakFast------------- */
+    <string name="breakf">BreakFast</string>
+    <string name="breakTitle">BreakFast Recipes</string>
+
+
+    /*-----Breakfast Recipe One ----- */
+    <string name="credit1"><a href="https://www.bbcgoodfood.com/recipes/sausage-bean-bacon-bake">Inspiration from:BBC goodFood</a> </string>
+    <string name="breakRecipeTitle1">Sausage, bean &amp; bacon bake</string>
+    <string name="breakRecipeSubtitle1"> Homemade baked beans, chipolatas, bacon and fried eggs</string>
+    <string name="SausageBeanBaconBake"><b><big>Sausage, bean &amp; bacon bake</big></b>
+
+        \n\n<li>12 chipolatas.</li>
+        \n\n<li>200g pack smoked dry-cured bacon lardons.</li>
+      \n\n<li>4 tbsp sunflower oil.</li>
+       \n\n<li>680g bottle passata.</li>
+      \n\n<li>1 tbsp sweet smoked paprika.</li>
+       \n\n<li>3 tbsp tomato purée.</li>
+       \n\n<li>1 tbsp brown sugar.</li>
+       \n\n<li>100g brown sauce.</li>
+       \n\n<li>3 x 400g cans cannellini beans, drained and rinsed.</li>
+       \n\n<li>6 eggs.</li>
+        \n\n<li>piles of hot buttered toast, to serve.</li>
+
+    </string>
+
+
+    <string name="Step1">Heat oven to 220C/200C fan/gas 7. Toss the chipolatas, bacon lardons and 1 tbsp of the oil together in a large roasting tin.
+                             Roast for 20-30 mins until everything is turning brown and crisp – you may want to tip off any liquid and stir it halfway.
+                             Use a fish slice to scrape up any stuck bits.</string>
+    <string name="Step2">Whisk together the passata, paprika, tomato purée, sugar, brown sauce,
+                             250ml water,a little salt and lots of pepper. Stir into the tin with the beans.
+                             Can be made 1 day ahead – cool first, tip into a plastic container, then chill.</string>
+    <string name="Step3">Put the tin back in the oven and bake for another 20 mins until thickened and bubbling
+                           (add another 10 mins if cooking from chilled).</string>
+    <string name="Step4">Turn off the oven but leave the tin in to keep warm while you fry the eggs.
+                            Heat the remaining oil in a large frying pan, crack in the eggs and fry them to your liking.
+                            Serve the fried eggs with the sausage bake and plenty of hot buttered toast.</string>
+
+
+    /*---------Breakfast Recipe 2 ------ */
+
+    <string name="credit2"><a href="http://www.shutterbean.com/2016/spinach-egg-breakfast-sandwich/">Inspiration from: shutterbean</a> </string>
+
+    <string name="breakRecipeTitle2">Spinach egg breakfast sandwich</string>
+    <string name="breakRecipeSubtitle2"> Homemade,easy and fast Spinach egg breakfast sandwich </string>
+    <string name="SpinachEggSandwich"><b><big>Spinach egg breakfast sandwich</big></b>
+
+        \n\n<li>2 slices sourdough bread.</li>
+        \n\n<li>1 teaspoon olive oil.</li>
+      \n\n<li>2 cups  baby spinach.</li>
+       \n\n<li>1/4 teaspoon red pepper flakes.</li>
+      \n\n<li>1 tablespoon pesto.</li>
+       \n\n<li>1/2 avocado, thinly sliced.</li>
+       \n\n<li>2 large eggs.</li>
+       \n\n<li>1/4 cup shredded cheddar cheese.</li>
+       \n\n<li>salt + pepper.</li>
+        \n\n<li><bold>NB:Grill or toast sourdough bread and set aside.</bold></li>
+
+
+    </string>
+
+
+    <string name="Step1Of2">Add olive oil to a small non-stick skillet over medium-high heat and sauté
+                            the baby spinach with red pepper flakes until spinach is wilted, about 2-3 minutes.</string>
+    <string name="Step2Of2">Set spinach aside and wipe skillet clean.</string>
+    <string name="Step3Of2">Spray skillet with cooking spray. </string>
+    <string name="Step4Of2"> Pour eggs in the skillet and let eggs set about 2–3 minutes.</string>
+    <string name="Step5Of2">Place shredded cheese in the center of the egg and season with salt &amp; pepper</string>
+    <string name="Step6Of2"> Fold the sides into the center and fold in half again so you’ve created a square pocket of egg.</string>
+    <string name="Step7Of2"> Spread pesto on one slice of bread and avocado onto the other. Season smashed avocado with salt. </string>
+    <string name="Step8Of2">Place spinach onto the side with pesto followed by egg. </string>
+    <string name="Step9Of2">Top egg with avocado smashed toast and serve hot. </string>
+
+
+    /*---------Breakfast Recipe 3 ------ */
+    <string name="credit3"><a href="https://veggieprimer.com/breakfast-pizza-peanut-butter-banana/">Inspiration from:Veggie Primer</a> </string>
+    <string name="breakRecipeTitle3">Breakfast Pizza: Peanut Butter Banana</string>
+    <string name="breakRecipeSubtitle3"> Breakfast pizza is especially made for the first meal of the day </string>
+    <string name="PeanutButterBanana"><b><big>Peanut Butter Banana</big></b>
+
+        \n\n<li>1 large tortilla frozen.</li>
+        \n\n<li>1/4 cup natural peanut butter.</li>
+      \n\n<li>1/2 banana diced.</li>
+       \n\n<li>1 Tbsp. raisins.</li>
+      \n\n<li>1 Tbsp. raw sunflower seeds.</li>
+       \n\n<li>3-4 dashes cinnamon.</li>
+
+
+
+    </string>
+
+
+    <string name="Step1Of3">Preheat toaster oven to 400 degrees. (Use pizza and convection settings if available.).</string>
+    <string name="Step2Of3">Place frozen tortilla on a pizza screen.</string>
+    <string name="Step3Of3">Spread a thin layer of peanut butter on the tortilla to within ½ inch from the edge. </string>
+    <string name="Step4Of3"> Sprinkle diced banana, raisins and sunflower seeds evenly over the peanut butter.</string>
+    <string name="Step5Of3">Add 3–4 dashes of cinnamon.</string>
+    <string name="Step6Of3"> Place pizza in the oven and bake for approximately 4 minutes or until edges of the tortilla begin to turn brown.</string>
+    <string name="Step7Of3"> Allow pizza to cool for 2 minutes on a wire rack – then slice and enjoy. </string>
+
+
+    /*---------Breakfast Recipe 4 ------ */
+
+    <string name="credit4"><a href="https://www.amazon.com/Healthy-Easy-Slow-Cooker-Cookbook/dp/1723935786">Jones, Jean. Healthy &amp; Easy Slow Cooker Cookbook: Delicious &amp;
+        Quick Meals That Can Give You More Energy (Kindle Locations 173-176). Kindle Edition.</a> </string>
+
+    <string name="breakRecipeTitle4">Spiced Onion Eggs</string>
+    <string name="breakRecipeSubtitle4"> Homemade,affordable and fast preparation </string>
+    <string name="SpicedOnion"><b><big>Spiced Onion Eggs</big></b>
+
+        \n\n<li>2 tablespoons green onions, chopped.</li>
+        \n\n<li>1/ 2 cup goat milk.</li>
+      \n\n<li>1/ 2 teaspoon turmeric powder.</li>
+       \n\n<li>2 tablespoons olive oil .</li>
+      \n\n<li>4 eggs .</li>
+       \n\n<li>1/ 4 teaspoon garlic powder .</li>
+       \n\n<li>1/ 2 teaspoon sesame seeds.</li>
+       \n\n<li>Pepper and salt as needed.</li>
+
+
+
+    </string>
+
+
+    <string name="Step1Of4">In a bowl (medium-large size), whisk the eggs and milk with a pinch of salt. .</string>
+    <string name="Step2Of4">Take your slow cooker and open its top lid.</string>
+    <string name="Step3Of4">Gently grease inside surface of its cooking pot using cooking spray.  </string>
+    <string name="Step4Of4">Add the mix and other ingredients inside the cooking pot. </string>
+    <string name="Step5Of4">Stir gently to combine well. Close the lid and make sure that the valve is sealed properly. </string>
+    <string name="Step6Of4"> Press “HIGH” cooking function; set cooking time to 2 hours.</string>
+    <string name="Step7Of4"> After the timer reads zero, open the lid and transfer the cooked recipe to serving plate/ container. </string>
+    <string name="Step8Of4">Serve warm and enjoy! </string>
+
+
+    /*---------Breakfast Recipe 5 ------ */
+
+    <string name="credit5"><a href="https://www.amazon.com/Healthy-Easy-Slow-Cooker-Cookbook/dp/1723935786">Jones, Jean. Healthy &amp;
+        Easy Slow Cooker Cookbook: Delicious &amp; Quick Meals That Can Give You More Energy (Kindle Locations 329-337).
+        Kindle Edition.</a> </string>
+
+    <string name="breakRecipeTitle5">Broccoli Cheesy Eggs</string>
+    <string name="breakRecipeSubtitle5"> Affordable and easy preparation </string>
+    <string name="BroccoliCheesy"><b><big>Broccoli Cheesy Eggs</big></b>
+
+        \n\n<li>4 large eggs, beaten.</li>
+        \n\n<li>Pepper and salt as needed .</li>
+      \n\n<li>3/ 4 pound of broccoli, make florets .</li>
+       \n\n<li>1 spring onion, chopped  .</li>
+      \n\n<li>1/ 4 cup grated goat cheese .</li>
+
+
+
+
+    </string>
+
+
+    <string name="Step1Of5">In a skillet or saucepan; add the oil, shallots, broccoli, and salt. Cook over the medium cooking
+        flame until turn translucent and softened for 2 minutes..</string>
+    <string name="Step2Of5">Whisk the eggs with a pinch of salt in a bowl (medium-large size). </string>
+    <string name="Step3Of5">Take your slow cooker and open its top lid.   </string>
+    <string name="Step4Of5">Add the egg mix over the broccoli, and sprinkle with the goat cheese.  </string>
+    <string name="Step5Of5">Close the lid and make sure that the valve is sealed properly.  </string>
+    <string name="Step6Of5"> Press “LOW” cooking function; set cooking time to 3–4 hours. </string>
+    <string name="Step7Of5"> After the timer reads zero, open the lid and transfer the cooked recipe to serving plate/ container.  </string>
+    <string name="Step8Of5">Serve warm and enjoy! </string>
+
+
+    /*---------Breakfast Recipe 6 ------ */
+
+    <string name="credit6"><a href="https://www.dietdoctor.com/recipes/keto-pancakes-berries-whipped-cream"> 
+        Recipe Authored:By Anne Aobadia</a> </string>
+
+    <string name="breakRecipeTitle6">Keto pancakes with berries and whipped cream</string>
+    <string name="breakRecipeSubtitle6"> Try these incredible keto cottage cheese pancakes and you’ll never go back to regular flapjacks! </string>
+    <string name="pancakeberries"><b><big>Keto pancakes with berries and whipped cream</big></b>
+
+        \n\n<li>4 eggs.</li>
+        \n\n<li>7 oz. cottage cheese .</li>
+      \n\n<li>1 tbsp ground psyllium husk powder .</li>
+       \n\n<li>2 oz. butter or coconut oil.</li>
+     \n\n\n<li><b><big>Toppings:</big></b></li>
+        \n\n<li>½ cup fresh raspberries or fresh .</li>
+        \n\n<li>blueberries or fresh strawberries.</li>
+        \n\n<li>1 cup heavy whipping cream .</li>
+
+    </string>
+
+
+    <string name="Step1Of6">Add eggs, cottage cheese and psyllium husk to a medium size bowl
+        and mix together. Let sit for 5-10 minutes to thicken up a bit.</string>
+    <string name="Step2Of6">Heat up butter or oil in a non-stick skillet. Fry the pancakes on medium-low heat for 3 to 4 minutes on each side.
+        Don\'t make them too big or they will be hard to flip.</string>
+    <string name="Step3Of6">Add cream to a separate bowl and whip until soft peaks form.   </string>
+    <string name="Step4Of6">Serve the pancakes with the whipped cream and berries of your choice. </string>
+    <string name="Step5Of6"><b>Serving suggestions:</b>
+      If you feel like serving them with something other than berries and whipped cream,
+        we suggest trying our raspberry jam, butter cream or hazelnut spread. </string>
+
+
+    /*---------Breakfast Recipe 7------ */
+
+    <string name="credit7"><a href="https://www.dietdoctor.com/recipes/keto-french-pancakes">
+        Recipe Authored:By Anne Aobadia</a> </string>
+
+
+    <string name="breakRecipeTitle7">Keto French pancakes</string>
+    <string name="breakRecipeSubtitle7">  Perfect for breakfast, brunch or dessert. </string>
+    <string name="Frenchpancakes"><b><big>Keto French pancakes</big></b>
+
+        \n\n<li>8 eggs.</li>
+        \n\n<li>2 cups heavy whipping cream.</li>
+      \n\n<li>½ cup water .</li>
+       \n\n<li>¼ tsp salt.</li>
+        \n\n<li>2 tbsp ground psyllium husk powder .</li>
+        \n\n<li>3 oz. butter.</li>
+
+    </string>
+
+
+    <string name="Step1Of7">In a bowl, mix together eggs, cream, water and salt with a hand mixer.</string>
+    <string name="Step2Of7">Gradually whisk in the psyllium husk while you continue mixing until you get a smooth batter. Let rest for at least 10 minutes.</string>
+    <string name="Step3Of7">Fry in butter just like regular pancakes. You should count with ½ cup (1 dl) batter per pancake. Make sure your frying pan is neither too big nor too hot, keep it on medium-high heat.
+        Don\'t be impatient, wait until the top is almost dry before flipping.   </string>
+
+
+    /*---------Breakfast Recipe 8------ */
+
+    <string name="credit8"><a href="https://alldayidreamaboutfood.com/low-carb-classic-chocolate-donuts/">
+        All Day I Dream About Food</a> </string>
+
+    <string name="breakRecipeTitle8">Classic Chocolate Cake Donuts</string>
+    <string name="breakRecipeSubtitle8">Coconut flour dipped in a dreamy sugar-free chocolate glaze.  </string>
+    <string name="ChocolateCake"><b><big>Classic Chocolate Cake Donuts</big></b>
+
+        \n\n<li><b><big>Donuts:</big></b></li>
+
+        \n\n<li>1/3 cup coconut flour.</li>
+        \n\n<li>1/3 cup Swerve Sweetener.</li>
+      \n\n<li>3 tbsp cocoa powder.</li>
+       \n\n<li>1 tsp baking powder.</li>
+        \n\n<li>1/4 tsp salt .</li>
+        \n\n<li>4 large eggs.</li>
+        \n\n<li>1/4 cup butter melted.</li>
+        \n\n<li>1/2 tsp vanilla extract.</li>
+        \n\n<li>6 tbsp brewed coffee or water coffee intensifies the chocolate flavour.</li>
+
+        \n\n<li><b><big>Glaze:</big></b></li>
+
+        \n\n<li>1/4 cup powdered Swerve Sweetener.</li>
+        \n\n<li>1 tbsp cocoa powder.</li>
+        \n\n<li>1 tbsp heavy cream.</li>
+         \n\n<li>1/4 tsp vanilla extract.</li>
+         \n\n<li>1 1/2 to 2 tbsp water.</li>
+
+
+
+    </string>
+
+
+    <string name="Step1Of8"><b>Donuts:</b>Preheat the oven to 325F and grease a donut pan very well.</string>
+    <string name="Step2Of8">In a medium bowl, whisk together the coconut flour, sweetener,
+        cocoa powder, baking powder, and salt. Stir in the eggs, melted butter, and vanilla extract,
+        then stir in the cold coffee or water until well combined.</string>
+    <string name="Step3Of8">Divide the batter among the wells of the donut pan.
+        If you have a six-well donut pan, you may need to work in batches.</string>
+    <string name="Step4Of8">Bake 16 to 20 minutes, until the donuts are set and firm to the touch.
+        Remove and let cool in the pan for 10 minutes, then flip out onto a wire rack to cool completely.</string>
+
+    <string name="Step5Of8"><b>Glaze:</b>In a medium shallow bowl, whisk together the powdered sweetener and cocoa powder.
+        Add the heavy cream and vanilla and whisk to combine.</string>
+
+    <string name="Step6Of8">Add enough water until the glaze thins out and is of a "dippable" consistency,
+        without being too watery.</string>
+    <string name="Step7Of8">Dip the top of each donut into the glaze and let set, about 30 minutes.</string>
+
+
+    /*---------Breakfast Recipe 9------ */
+
+    <string name="credit9"><a href="https://40aprons.com/blueberry-oatmeal-pancakes-vegan-gluten-free/">
+        Recipe Authored:By Cheryl Malik</a> </string>
+
+    <string name="breakRecipeTitle9">Blueberry Oatmeal Pancakes </string>
+    <string name="breakRecipeSubtitle9">Blueberry oatmeal pancakes that come together quickly and are totally delicious.  </string>
+    <string name="BlueberryOatmeal"><b><big>Blueberry Oatmeal Pancakes (Vegan, Gluten Free)</big></b>
+
+
+        \n\n<li>1 tablespoon freshly ground flaxseed meal.</li>
+        \n\n<li>3 tablespoons warm water.</li>
+      \n\n<li>1/2 cup brown rice flour.</li>
+       \n\n<li>1/2 cup quick cooking oats.</li>
+        \n\n<li>1 tablespoon agave nectar.</li>
+        \n\n<li>1 teaspoon baking powder.</li>
+        \n\n<li>1/2 teaspoon baking soda.</li>
+        \n\n<li>1/2 teaspoon salt.</li>
+        \n\n<li>1 teaspoon lemon juice.</li>
+        \n\n<li>about 3/4 cup almond milk.</li>
+        \n\n<li>1 teaspoon vanilla extract.</li>
+        \n\n<li>1 tablespoon coconut oil , melted.</li>
+         \n\n<li>about 1 cup blueberries.</li>
+         \n\n<li>blueberry chia jam , to serve</li>
+        \n\n<li>maple syrup , to serve.</li>
+
+
+
+    </string>
+
+
+    <string name="Step1Of9">Mix together the tablespoon of flaxseed meal
+        and 3 tablespoons warm water and set aside until gooey, almost like egg whites.</string>
+    <string name="Step2Of9">In a measuring cup, add 1 teaspoon lemon juice
+        then top off with almond milk to make 3/4 cup. Stir and set aside until curdled.</string>
+
+    <string name="Step3Of9">In a blender, add oats and blend quickly until almost forms a flour.
+        Add remaining ingredients, except for blueberries, and blend until smooth.</string>
+
+    <string name="Step4Of9">Heat a lightly oiled skillet or griddle over medium heat. Spoon pancake batter on,
+        about 1/4 cup per pancake, and place about 5-7 blueberries on top.
+        Cook until bubbles form and burst on the surface. Flip with a spatula and press down to cook evenly.
+        Cook about 3 more minutes, or until cooked through. Serve with blueberry chia jam and maple syrup.</string>
+
+
+    /*---------Breakfast Recipe 10------ */
+    <string name="credit10"><a href="https://thecozyapron.com/autumn-sweet-potato-hash/">
+        Autumn Sweet Potato Hash with Spicy Italian Sausage
+by Ingrid Beer</a> </string>
+    <string name="breakRecipeTitle10">Autumn Sweet Potato Hash with Spicy Italian Sausage</string>
+    <string name="breakRecipeSubtitle10"> Autumn Sweet Potato Hash is fall’s answer to a savory late morning breakfast.   </string>
+    <string name="AutumnSweetPotatoHash"><b><big>Autumn Sweet Potato Hash with Spicy Italian Sausage</big></b>
+
+
+        \n\n<li>2 links Spicy Italian Sausage, casing removed.</li>
+        \n\n<li> 2 sweet potatoes, peeled and diced into tiny cubes.</li>
+      \n\n<li>1 small onion, diced.</li>
+       \n\n<li>1 red bell pepper, cored and seeded, and diced.</li>
+        \n\n<li>Salt.</li>
+        \n\n<li>Black pepper.</li>
+        \n\n<li> Pinch paprika.</li>
+        \n\n<li>Pinch onion powder.</li>
+        \n\n<li>Pinch garlic powder.</li>
+        \n\n<li>Pinch Italian seasoning.</li>
+        \n\n<li>2 teaspoons chopped fresh flat-leaf parsley.</li>
+        \n\n<li>1 green onion, chopped.</li>
+         \n\n<li>1/4 cup grated asiago cheese.</li>
+
+    </string>
+
+    <string name="Step1Of10">Place a large non-stick saute pan over medium-high heat; once hot,
+        crumble the spicy sausage into the pan allowing it stay relatively chunky, and brown it
+        for a several minutes.</string>
+    <string name="Step2Of10">Next, add into the pan the onion and the red bell pepper, and saute those with the sausage for a few moments until golden-brown
+        (if a little more oil is needed, add in a drizzle of olive oil); .</string>
+
+    <string name="Step3Of10">Add in a pinch or two of salt and freshly ground black pepper,
+        the pinch of paprika, onion powder,garlic powder and Italian seasoning, and stir to combine;.</string>
+
+    <string name="Step4Of10">Add in the diced sweet potato, stir, and cook everything until it starts to
+        caramelize and soften a bit,covered, for about 10-12 minutes, stirring occasionally.</string>
+
+    <string name="Step5Of10">Finish the hash by adding the chopped parsley and green onion, and fold those in;
+        spoon the hash into bowls or plates,and top with the grated asiago cheese; serve with a fried egg, if desired.</string>
+
+
+    /* -----------Lunch------------- */
+    <string name="lunch">Lunch</string>
+    <string name="lunchTitle">Lunch Recipes</string>
+
+    /*-----Lunch Recipe One ----- */
+    <string name="LunchCredit1"><a href="https://workweeklunch.com/recipe/turkey-burgers-meal-prep/">
+       Lean Turkey Burgers With Sweet Potato Fries Meal By:workweeklunch</a> </string>
+
+    <string name="lunchRecipeTitle1">Lean Turkey Burgers With Sweet Potato Fries Meal </string>
+    <string name="lunchRecipeSubtitle1">These turkey burgers are super tasty and super filling!</string>
+    <string name="LeanTurkeyBurgers"><b><big>Lean Turkey Burgers With Sweet Potato Fries Meal </big></b>
+
+
+        \n\n<li>1 pound turkey breast.</li>
+        \n\n<li> 1 large sweet potato chopped into wedges.</li>
+      \n\n<li>8 lettuce leaves.</li>
+       \n\n<li>1/2 medium red onion sliced.</li>
+        \n\n<li>1 roma or plum tomatoes, sliced.</li>
+        \n\n<li>2 TBSP coconut oil.</li>
+        \n\n<li> 1 TBSP olive oil.</li>
+        \n\n<li>salt and pepper to taste.</li>
+        \n\n<li>1 tsp cumin.</li>
+        \n\n<li>1/4 tsp cayenne.</li>
+        \n\n<li>1 cup green onion chopped.</li>
+        \n\n<li>1 avocado for garnish.</li>
+         \n\n<li>sauce of your choice, for garnish.</li>
+
+    </string>
+
+    <string name="LunchStep1Of1">Preheat the oven to 400 F.</string>
+
+    <string name="LunchStep2Of1">Toss the potato wedges in a bowl with the olive oil and salt and pepper to taste.
+	Add cayenne or crushed red pepper to taste if you like them spicy!</string>
+
+    <string name="LunchStep3Of1">Transfer to a baking sheet prepped with foil or cooking spray (up to you) and bake for 30 mins, flipping halfway.</string>
+
+    <string name="LunchStep4Of1">In a big bowl, combine the ground turkey, green onion, salt and pepper, cumin and cayenne. (add any other spices you like here to mix it up!). Mix until combined, then form patties with your hands.
+	I made 4 kinda big ones.</string>
+
+    <string name="LunchStep5Of1">Add the coconut oil to a skillet over medium high heat. Warm the pan for 3 minutes, then add the patties. Let them cook about 7-9 minutes on each side.
+	I had to flip mine a few times and it took longer than I thought.</string>
+
+    <string name="LunchStep6Of1">Assemble: place the patties on the lettuce, stack the red onion and tomato next to them, then add the fries. Let cool for 30 mins before placing in the fridge.
+	 Eat within 4 days and top with your garnishes before eating!</string>
+
+
+    /*-----Lunch Recipe Two ----- */
+    <string name="LunchCredit2"><a href="https://www.godairyfree.org/recipes/banana-peanut-butter-honey-sandwich">
+       The Peanut Butter, Banana and Honey Sandwich By:ALISA FLEMING</a> </string>
+
+    <string name="lunchRecipeTitle2">Peanut Butter, Banana and Honey Sandwich </string>
+    <string name="lunchRecipeSubtitle2">non-dairy / dairy-free, egg-free,optionally gluten-free,optionally nut-free,optionally peanut-free,
+        soy-free,optionally vegan,plant-based,and vegetarian.</string>
+    <string name="PeanutButterSandwich"><b><big>Peanut Butter, Banana and Honey Sandwich </big></b>
+
+
+    \n\n<li><b><big>Spiced Peanut Butter (or Seed Butter)</big></b>.</li>
+    \n\n\n<li>1 cup unsalted peanut butter or sunflower seed butter (for nut-free) .</li>
+    \n\n<li>1 teaspoon salt.</li>
+    \n\n<li>1¾ teaspoons honey or agave nectar.</li>
+    \n\n<li>⅛ teaspoon ginger powder.</li>
+    \n\n<li>⅛ teaspoon ground cinnamon.</li>
+    \n\n\n<li><b><big>PB, Banana &amp; Honey Sandwich</big></b>.</li>
+    \n\n<li>12 slices whole grain or gluten-free bread (see my notes above on dairy-free bread).</li>
+    \n\n<li>6 bananas, sliced.</li>
+    \n\n<li>1 cup spiced peanut butter or sunflower seed butter.</li>
+    \n\n<li>2 tablespoons honey or agave nectar (for vegan).</li>
+    \n\n<li>2 ounces dairy-free margarine or coconut oil, at room temperature.</li>
+    \n\n<li>1 teaspoon sugar.</li>
+    \n\n<li>½ teaspoon ground cinnamon.</li></string>
+
+
+    <string name="LunchStep1Of2"><b><big>Spiced Peanut Butter:  </big></b>Whisk all of the ingredients together in a bowl until well blended.</string>
+
+    <string name="LunchStep2Of2">Place the peanut butter in an airtight container and store in the refrigerator for 6 to 8 weeks (if you can keep from eating it for that long!).</string>
+
+    <string name="LunchStep3Of2"><b><big>PB, Banana &amp; Honey Sandwich:  </big></b>Lay out two slices of the bread on a cutting board.</string>
+
+    <string name="LunchStep4Of2">Spread both slices of bread with peanut butter. Set one aside.</string>
+
+    <string name="LunchStep5Of2">Take one slice and top with sliced bananas, then drizzle with honey or agave. Place the reserved slice of bread on top.</string>
+
+    <string name="LunchStep6Of2">Brush top and bottom of sandwich with room temperature margarine or oil.</string>
+
+    <string name="LunchStep7Of2">If you own an electric sandwich maker or Panini press, place sandwich inside for 2½ to 3½ minutes. If you do not have a sandwich press, place sandwich in a sauté pan on top of your stove, set at medium heat;
+ and cook for 3-1/2 to 4-1/2 minutes on each side.</string>
+
+    <string name="LunchStep8Of2">While cooking, combine cinnamon and the sugar in small bowl.</string>
+
+    <string name="LunchStep9Of2">Remove sandwich and while still hot, season liberally with cinnamon and sugar.</string>
+
+    <string name="LunchStep10Of2">Cut in half and serve while hot.</string>
+
+
+    /*-----Lunch Recipe Three ----- */
+    <string name="LunchCredit3"><a href="https://www.taste.com.au/recipes/mushroom-bacon-risotto-patties/d27bce3d-d439-4f01-af83-c77ffcc5ddfa">
+       Mushroom and bacon risotto patties By:Nadia French , Image Credit: Amanda McLauchlan</a> </string>
+
+    <string name="lunchRecipeTitle3">Mushroom and bacon risotto patties </string>
+    <string name="lunchRecipeSubtitle3">This tasty gluten-free lunch is easy to prepare at home and easy to eat at work!</string>
+    <string name="MushroomBacon"><b><big>Mushroom and bacon risotto patties  </big></b>
+
+        \n\n<li>1 1/2 tablespoons olive oil.</li>
+        \n\n<li>1 small brown onion, finely chopped .</li>
+      \n\n<li>2 garlic cloves, crushed.</li>
+       \n\n<li>1 rasher gluten-free rindless middle bacon, chopped.</li>
+        \n\n<li>100g button mushrooms, sliced.</li>
+        \n\n<li>2/3 cup arborio rice.</li>
+        \n\n<li>2 tablespoons finely grated parmesan cheese .</li>
+        \n\n<li>1 egg, lightly beaten.</li>
+        \n\n<li>2/3 cup polenta.</li>
+        \n\n<li>Salad leaves, to serve.</li>
+
+
+</string>
+
+    <string name="LunchStep1Of3">Line a baking tray with baking paper.
+Heat 2 teaspoons oil in saucepan over medium-high heat.</string>
+
+    <string name="LunchStep2Of3">Cook onion and garlic for 4 minutes or until softened.</string>
+
+    <string name="LunchStep3Of3">Add bacon and mushroom.
+Cook, stirring, for 4 to 5 minutes or until mushroom has softened. </string>
+
+    <string name="LunchStep4Of3">
+\n\n<li> Add rice..</li>
+ \n\n<li>Stir to coat.</li>
+   \n\n<li>Add 1 cup cold water.</li>
+   \n\n<li>Bring to the boil.</li>
+   \n\n<li> Reduce heat to medium-low.</li>
+
+</string>
+
+    <string name="LunchStep5Of3">Simmer, stirring occasionally, for 10 minutes or until rice has absorbed liquid. Add 3/4 cup cold water.
+ Cook for 8 to 10 minutes or until rice is tender. Remove from heat.</string>
+
+    <string name="LunchStep6Of3">Stir in cheese. Spread rice mixture on prepared tray.
+Refrigerate for 1 hour or until cool enough to handle.</string>
+
+    <string name="LunchStep7Of3">Using 1/4 cup rice mixture per ball, roll into 8 balls. Flatten slightly.
+
+\n\n<li>Place on a plate.</li>
+ \n\n<li>Place egg into a shallow bowl.</li>
+ \n\n<li>Place polenta on a plate.</li>
+ \n\n<li>Dip 1 risotto patty into egg, then polenta.</li>
+  \n\n<li>Place on a plate.</li>
+    \n\n<li> Repeat with remaining patties.</li>
+
+</string>
+
+    <string name="LunchStep8Of3">Heat remaining oil in a large frying pan over medium-high heat. Cook patties for 3 to 4 minutes on each side or until browned and crisp. Set aside to cool. Divide patties between 4 microwave-safe containers.
+Place salad leaves in 4 snaplock bags. Refrigerate.</string>
+
+
+    /*-----Lunch Recipe Four ----- */
+    <string name="LunchCredit4"><a href="https://www.taste.com.au/recipes/sweet-potato-salmon-quiche-2/
+    9c94f295-ed04-4079-b18d-5d205a813614?r=recipes/lunchrecipes&amp;c=0fa1cf4f-809b-4ee7-88a0-72da8e8543a4/Lunch%20recipes">
+      Sweet potato and salmon quiche</a> 
+
+        \n<li>Author: Jacob Leung .</li>
+        \n<li>Image credit: Jeremy Simons.</li>
+        \n<li>Publication: Australian Good Taste.</li>
+
+    </string>
+
+    <string name="lunchRecipeTitle4">Sweet potato and salmon quiche </string>
+    <string name="lunchRecipeSubtitle4">Sweet potato and salmon quiche that come together quickly and are totally delicious.</string>
+    <string name="SweetPotatoSalmon"><b><big>Sweet potato and salmon quiche </big></b>
+
+
+        \n\n<li>2 sheets frozen shortcrust pastry, just thawed.</li>
+        \n\n<li>400g sweet potato, peeled, cut into 2cm pieces .</li>
+      \n\n<li>8 eggs.</li>
+       \n\n<li>250ml (1 cup) thickened cream.</li>
+        \n\n<li>150g portion hot-smoked salmon, skin removed, flaked.</li>
+        \n\n<li>1 leek, thinly sliced.</li>
+        \n\n<li>1/4 cup chopped fresh dill .</li>
+        \n\n<li>100g camembert, thinly sliced.</li>
+
+
+</string>
+
+
+    <string name="LunchStep1Of4">Preheat oven to 170C. Spray a round 4cm-deep, 23cm (base measurement) fluted tart tin, with removable base, with olive oil.
+ Line with the pastry and trim any excess. Cover the pastry with baking paper and fill with pastry weights or rice.
+ Bake for 10 minutes. Remove paper and weights or rice. Bake for a further 10 minutes or until light golden.</string>
+
+    <string name="LunchStep2Of4">Meanwhile, place sweet potato in a microwave-safe bowl.
+Cover and cook on high for 7 minutes or until just tender. Set aside for 5 minutes to cool.</string>
+
+    <string name="LunchStep3Of4">Whisk the eggs and cream in a bowl. Stir in the salmon, leek and dill. Season.</string>
+
+    <string name="LunchStep4Of4">Arrange the sweet potato over the pastry base. Pour over the egg mixture.
+Arrange the camembert on top. Bake for 50 minutes or until just set. Serve warm or at room temperature.</string>
+
+
+    /*-----Lunch Recipe Five ----- */
+    <string name="LunchCredit5"><a href="https://gfreefoodie.com/southern-style-hot-chicken-recipe/">
+        Sweet potato and salmon quiche. Author: K.C. Cornwell</a></string>
+
+    <string name="lunchRecipeTitle5">Southern-Style Hot Chicken Recipe </string>
+    <string name="lunchRecipeSubtitle5">Fried chicken is a Southern staple, and a delicious dish and gluten-free.</string>
+    <string name="SouthernStyleChickenRecipe"><b><big>Southern-Style Hot Chicken Recipe </big></b>
+
+
+        \n\n<li>1 lb large boneless skinless chicken breasts, cut into strips.</li>
+        \n\n<li>Oil for frying .</li>
+      \n\n<li><b><big>For the red rub:</big></b></li>
+       \n\n<li>1 tbsp garlic powder.</li>
+        \n\n<li>2 tbsp onion powder.</li>
+        \n\n<li>2 tbsp paprika.</li>
+        \n\n<li>2-3 tbsp cayenne pepper.</li>
+        \n\n<li>1 tbsp GF hot sauce.</li>
+		\n\n<li>½ tsp white pepper.</li>
+		\n\n<li>1 cup orange juice.</li>
+		\n\n\n<li><b><big>For the dredge:</big></b></li>
+		\n\n<li>2 cups GF Flour (I used Enjoy Life All-Purpose Flour).</li>
+		\n\n<li>4 tsp baking powder.</li>
+		\n\n<li>1 tbsp salt.</li>
+		\n\n<li>2 tbsp paprika.</li>
+		\n\n<li>1 tsp cayenne.</li>
+
+
+</string>
+
+
+    <string name="LunchStep1Of5">Combine the red rub ingredients in a large, shallow bowl. Add in the chicken and turn to fully coat.
+	Cover the bowl and place in the refrigerator to marinate for at least 4 hours, overnight is better..</string>
+
+    <string name="LunchStep2Of5">When you’re ready to fry the chicken, mix the dredge, and pull each strip out of the marinade and coat them
+	thoroughly with the flour mixture. Place the coated strips on a plate..</string>
+
+    <string name="LunchStep3Of5">Heat 1 inch of cooking oil in a large skillet over medium heat.
+	Oil should be hot enough to sizzle and turn the strips golden brown without scorching them.</string>
+
+    <string name="LunchStep4Of5">Cook the strips a few at a time (don’t crowd the pan) for a about 3-4 minutes on each side, until the chicken is cooked through.
+	Set cooked strips on a paper towel-lined plate to cool while the rest of the chicken is cooking.</string>
+
+    <string name="LunchStep5Of5">Season the finished strips with a sprinkle of salt and serve with your favorite hot sauce and pickles.</string>
+
+
+    /*-----Lunch Recipe six ----- */
+
+    <string name="LunchCredit6"><a href="https://www.contentednesscooking.com/vegetarian-bbq-burrito-bowl/">
+        VEGETARIAN BBQ BURRITO BOWL. Author: Contentedness Cooking</a></string>
+
+    <string name="lunchRecipeTitle6">vegetarian BBQ burrito bowl</string>
+    <string name="lunchRecipeSubtitle6">It is super easy to make, vegan, gluten free and is everything you ask for in a stunning lunch.</string>
+    <string name="vegetarianBBQburrit"><b><big>vegetarian BBQ burrito bowl</big></b>
+
+
+        \n\n<li>2 cups rice, uncooked.</li>
+        \n\n<li>2 tsp cumin .</li>
+        \n\n<li>1 batch black beans from my Mexican Fiesta Cauliflower Rice.</li>
+        \n\n<li>1 avocado, sliced.</li>
+        \n\n<li>1 heaping cup BBQ sauce (try my favorite Buffalo Homemade BBQ Sauce).</li>
+        \n\n<li>1/2 cup tortilla chips (optional).</li>
+        \n\n<li>salt, pepper to taste.</li>
+
+
+</string>
+
+
+    <string name="LunchStep1Of6">Cook the rice according the manufacturer’s directions.
+	While it’s cooking, make the black beans, as described in my Mexican Fiesta Cauliflower Rice.</string>
+
+    <string name="LunchStep2Of6">Assemble the bowl. Just mix BBQ sauce, rice, beans, cumin, avocado slices, season with salt and pepper.
+	Garnish or serve with some tortilla chips (optional) for a delicious and satisfying crunch.</string>
+
+
+    /*-----Lunch Recipe seven ----- */
+
+    <string name="LunchCredit7"><a href="http://northsouthblonde.com/blackened-chicken-avocado-salad/">
+        Blackened Chicken and Avocado Salad (Gluten-Free, Paleo, Whole 30). Author:  North South Blonde</a></string>
+
+    <string name="lunchRecipeTitle7">Blackened Chicken and Avocado Salad</string>
+    <string name="lunchRecipeSubtitle7">Blackened Chicken and Avocado Salad is the easiest and healthiest meal you will ever make.</string>
+    <string name="BlackenedChicken"><b><big>Blackened Chicken and Avocado Salad </big></b>
+        \n\n<b><big>Blackened Chicken:</big></b>
+    \n\n<li>2 boneless skinless chicken breasts.</li>
+    \n\n<li>1/2 tsp paprika.</li>
+    \n\n<li>1/2 tsp garlic powder.</li>
+    \n\n<li>1/2 tsp chili powder.</li>
+    \n\n<li>1/2 tsp cumin (optional).</li>
+    \n\n<li>1 tbsp olive oil.</li>
+    \n\n<li>pinch salt and pepper.</li>
+    \n\n<b><big>Avocado Salad:</big></b>
+    \n\n<li>2 cups romaine lettuce can also use baby spinach.</li>
+    \n\n<li>1 large tomato.</li>
+    \n\n<li>1 small red onion.</li>
+    \n\n<li>1/2 cup cucumber.</li>
+    \n\n<li>2 avocados.</li>
+    \n\n<li>1 tbsp olive oil.</li>
+    \n\n<li>1 tbsp cilantro fresh or dried.</li>
+    \n\n<li>1/2 tsp salt.</li>
+    \n\n<li>1/2 tsp pepper.</li>
+
+    </string>
+
+    <string name="LunchStep1Of7">Defrost chicken prior to starting. Wash and pat dry. In a small bowl, mix together the paprika, garlic powder, chili powder, cumin, salt, pepper and olive oil.
+	Coat the chicken and cook on medium heat in a frying pan until no longer pink in center (approximately 15 minutes, depending on thickness).</string>
+
+    <string name="LunchStep2Of7">Wash, dry, and chop lettuce. Peel, pit, and chop the avocados as well as the tomato, onion, cucumber into desired size. Usually about 1/2 inch pieces.
+	Add all the ingredients to a large salad bowl, drizzling the olive oil and sprinkling the salt, pepper, and cilantro. Toss with tongs.</string>
+
+    <string name="LunchStep3Of7">Remove the chicken and cut diagonally into strips, place on top of salad and serve immediately.</string>
+
+
+    /*-----Lunch Recipe eight ----- */
+
+    <string name="LunchCredit8"><a href="https://www.yourhomebasedmom.com/mexican-rice/">
+        Mexican Rice Recipe. Author: Leigh Anne Wilkes</a></string>
+
+    <string name="lunchRecipeTitle8">Mexican Rice Recipe</string>
+    <string name="lunchRecipeSubtitle8">It is so easy to make at home.</string>
+    <string name="MexicanRiceRecipe"><b><big>Mexican Rice </big></b>
+
+
+
+        \n\n<li>2 Tbsp Olive oil or vegetable oil.</li>
+        \n\n<li>1 C long grain white rice.</li>
+        \n\n<li>2 C chicken broth.</li>
+        \n\n<li>1 small can tomato juice - 5.5 oz.</li>
+        \n\n<li>salt and pepper.</li>
+
+
+
+</string>
+
+
+    <string name="LunchStep1Of8">Heat oil in a skillet.</string>
+
+    <string name="LunchStep2Of8">Add the rice</string>
+
+    <string name="LunchStep3Of8">Stir frequently and slightly brown the rice (more like, make it tan) over a medium high heat.</string>
+
+    <string name="LunchStep4Of8">Add the chicken broth, tomato juice, and some salt and pepper.</string>
+
+    <string name="LunchStep5Of8">Stir thoroughly.</string>
+
+    <string name="LunchStep6Of8">Reduce heat to simmer and cover tightly with a lid.</string>
+
+    <string name="LunchStep7Of8">(I \'stir\' the mixture several times while it\'s cooking by just shaking/moving the skillet back and forth so that I don\'t take the lid off.).</string>
+
+    <string name="LunchStep8Of8">Simmer/cook for about 20 minutes, until the liquid has been absorbed.</string>
+
+    <string name="LunchStep9Of8">Once the liquid has been absorbed, turn off the heat and leave mixture alone with the lid on it for another 10-15 minutes or so.</string>
+
+
+    /*-----Lunch Recipe nine ----- */
+
+    <string name="LunchCredit9"><a href="https://www.tasteofhome.com/recipes/bean-beef-slow-cooked-chili/">
+        Bean &amp; Beef Slow-Cooked Chili. Author: Mallory Lynch, Madison, Wisconsin</a></string>
+
+    <string name="lunchRecipeTitle9">Bean &amp; Beef Slow Cooked Chili</string>
+    <string name="lunchRecipeSubtitle9">It is so easy to make at home.</string>
+    <string name="BeanBeefSlowCookedChili"><b><big>Bean &amp; Beef Slow Cooked Chili </big></b>
+
+
+
+        \n\n<li>1 pound lean ground beef (90% lean).</li>
+        \n\n<li>1 large sweet onion, chopped.</li>
+        \n\n<li>3 garlic cloves, minced.</li>
+        \n\n<li>2 cans (14-1/2 ounces each) diced tomatoes with mild green chilies.</li>
+        \n\n<li>2 cans (15 ounces each) pinto beans, rinsed and drained.</li>
+		  \n\n<li>2 cans (15 ounces each) black beans, rinsed and drained.</li>
+		    \n\n<li>2 to 3 tablespoons chili powder.</li>
+			  \n\n<li>2 teaspoons ground cumin.</li>
+			    \n\n<li>1/2 teaspoon salt.</li>
+				  \n\n<li>Optional toppings: sour cream, chopped red onion and minced fresh cilantro.</li>
+
+
+
+
+</string>
+
+
+    <string name="LunchStep1Of9">In a large skillet, cook beef, onion and garlic over medium heat 6-8 minutes
+	or until beef is no longer pink, breaking up beef into crumbles; drain.</string>
+
+    <string name="LunchStep2Of9">Transfer beef mixture to a 5-qt. slow cooker. Drain one can of tomatoes, discarding liquid; add to slow cooker.
+	Stir in beans, chili powder, cumin, salt and remaining tomatoes. Cook, covered, on low 6-8 hours to allow flavors to blend.</string>
+
+    <string name="LunchStep3Of9">Mash beans to desired consistency. Serve with toppings as desired.</string>
+
+    <string name="LunchStep4Of9"><b><big>Freeze option:</big></b> Freeze cooled chili in freezer containers. To use, partially thaw in refrigerator overnight.
+	Heat through in a saucepan, stirring occasionally and adding a little water if necessary.</string>
+
+
+    /*-----Lunch Recipe ten ----- */
+
+    <string name="LunchCredit10"><a href="https://www.purewow.com/recipes/firecracker-chicken-with-rice">
+        Firecracker Chicken with Rice :By ERIN MCDOWELL</a></string>
+
+    <string name="lunchRecipeTitle10">Firecracker Chicken with Rice</string>
+    <string name="lunchRecipeSubtitle10">This sweet, spicy and delightfully sticky firecracker chicken with rice that’s on the table in under an hour. </string>
+    <string name="FirecrackerChicken"><b><big>Firecracker Chicken with Rice </big></b>
+
+
+
+         \n\n<b><big>CHICKEN:</big></b>
+    \n\n<li>2 large eggs.</li>
+    \n\n<li>1½ pounds boneless, skinless chicken breasts, chopped.</li>
+    \n\n<li>Kosher salt and freshly ground black pepper.</li>
+    \n\n<li>⅓ cup cornstarch.</li>
+    \n\n<li>¼ cup vegetable oil.</li>
+    \n\n<b><big>SAUCE:</big></b>
+    \n\n<li>1 tablespoon unsalted butter.</li>
+    \n\n<li>3 garlic cloves, minced.</li>
+    \n\n<li>¼ cup sriracha.</li>
+    \n\n<li>¼ teaspoon rice vinegar.</li>
+    \n\n<li>3 tablespoons brown sugar.</li>
+    \n\n<li>½ teaspoon crushed red-pepper flakes.</li>
+    \n\n<li>1 bunch green onions, thinly sliced, divided.</li>
+    \n\n<li>Sesame seeds, for serving.</li>
+    \n\n<li>Steamed rice, for serving.</li>
+
+
+</string>
+
+
+    <string name="LunchStep1Of10"><b><big>MAKE THE CHICKEN:</big></b> In a large bowl, season the chicken with salt and pepper.
+        Add the cornstarch and toss well to coat. Crack the eggs into a medium bowl and beat to combine.</string>
+
+    <string name="LunchStep2Of10">In a large skillet, heat the oil over medium heat.
+        Dip each piece of chicken into the egg and then add to the skillet.</string>
+
+    <string name="LunchStep3Of10">Cook the chicken, turning a few times, until each piece is evenly golden brown and fully cooked, 7 to 9 minutes.</string>
+
+    <string name="LunchStep4Of10"><b><big>MAKE THE SAUCE:</big></b> Melt the butter in a medium saucepan over medium heat.
+        Add the garlic and sauté until fragrant, about 1 minute.</string>
+    <string name="LunchStep5Of10">Add the sriracha, rice vinegar, brown sugar, crushed red-pepper flakes and half of the green onions.
+        Bring the mixture to a simmer, stirring continuously, and cook for 1 minute; remove from the heat.</string>
+    <string name="LunchStep6Of10">When the chicken is done cooking, transfer it from the pan to a large bowl.
+        Add the sauce, and toss well to combine.</string>
+
+    <string name="LunchStep7Of10">Garnish with the sesame seeds and remaining green onions. Serve with the rice.</string>
+
+
+    /* ------------Main Course------------ */
+    <string name="main">Main Course</string>
+    <string name="mainCourseTitle">MainCourse Recipes</string>
+
+    /*-----Main Course Recipe One ----- */
+
+    <string name="MainCourseCredit1"><a href="https://www.southernliving.com/recipes/simple-boarding-house-meatloaf">
+        House Meatloaf :By SOUTHERN LIVING</a></string>
+
+    <string name="MainCourseRecipeTitle1">House Meatloaf</string>
+    <string name="MainCourseRecipeSubtitle1">House Meatloaf is the homemade sauce that adorns the dish.</string>
+    <string name="Meatloaf"><b><big>House Meatloaf </big></b>
+
+
+    \n\n<li>1/2 green bell pepper, chopped.</li>
+    \n\n<li>1/2 small onion, chopped.</li>
+    \n\n<li>1 1/2 pounds lean ground beef.</li>
+    \n\n<li>2 large eggs, beaten.</li>
+    \n\n<li>3/4 cup uncooked regular oats.</li>
+    \n\n<li>1/4 cup ketchup.</li>
+    \n\n<li>1 1/2 teaspoons salt.</li>
+
+
+</string>
+
+
+    <string name="MainCourseStep1Of1">Microwave green bell pepper and onion in a microwave-safe bowl at HIGH 2 minutes.</string>
+
+    <string name="MainCourseStep2Of1">Combine onion mixture, ground beef, and next 4 ingredients.
+	Shape into a loaf. Place in a lightly greased 9- x 5-inch loaf pan.</string>
+
+    <string name="MainCourseStep3Of1">Bake at 350° for 45 minutes. Remove from oven, and pour off pan juices. Spread half of Meat Loaf Sauce evenly over meat loaf; bake 25 more minutes.
+	Remove from pan, and serve with remaining Meat Loaf Sauce.</string>
+
+
+    /*-----Main Course Recipe Two ----- */
+
+    <string name="MainCourseCredit2"><a href="https://www.southernliving.com/recipes/smothered-chicken">
+        Snappy Smothered Chicken:By SOUTHERN LIVING</a></string>
+
+    <string name="MainCourseRecipeTitle2">Snappy Smothered Chicken</string>
+    <string name="MainCourseRecipeSubtitle2">Smothered chicken is a real-deal Southern staple.</string>
+    <string name="SmotheredChicken"><b><big>Snappy Smothered Chicken</big></b>
+
+
+    \n\n<li>1 (8-oz.) package wide egg noodles.</li>
+    \n\n<li>1 teaspoon paprika.</li>
+    \n\n<li>1 teaspoon dried thyme leaves, crumbled.</li>
+    \n\n<li>1/2 teaspoon salt.</li>
+    \n\n<li>1/4 teaspoon pepper.</li>
+    \n\n<li>3 tablespoons butter.</li>
+    \n\n<li>1 large onion, chopped.</li>
+	\n\n<li>1 (16-oz.) package mushrooms, sliced.</li>
+	\n\n<li>1 teaspoons jarred minced garlic.</li>
+	\n\n<li>1 (10 3/4-oz.) can cream of mushroom soup.</li>
+	\n\n<li>1 cup milk.</li>
+	\n\n<li>1/3 cup dry white wine (optional).</li>
+	\n\n<li>1 rotisserie chicken, cut into serving pieces.</li>
+	\n\n<li>2 tablespoons chopped fresh parsley.</li>
+
+
+
+</string>
+
+
+    <string name="MainCourseStep1Of2">Prepare noodles according to package directions. Keep warm.</string>
+
+    <string name="MainCourseStep2Of2">Meanwhile, stir together paprika, dried thyme, salt, and pepper in a small bowl.</string>
+
+    <string name="MainCourseStep3Of2">Melt butter in a large skillet over medium-high heat; add onion and mushrooms, and sauté 8 to 10 minutes or until onion is tender.</string>
+
+    <string name="MainCourseStep4Of2">Stir in garlic and paprika mixture; sauté 2 minutes. </string>
+
+    <string name="MainCourseStep5Of2"> Add soup, milk, and, if desired, wine, and bring to a boil, stirring frequently. </string>
+
+    <string name="MainCourseStep6Of2"> Add chicken pieces; spoon sauce over top of chicken. Reduce heat to low, and cook, covered, 10 to 15 minutes or until chicken is thoroughly heated. </string>
+
+    <string name="MainCourseStep7Of2"> Stir in 1 Tbsp. parsley.</string>
+
+    <string name="MainCourseStep8Of2"> Serve over hot cooked noodles. Sprinkle with remaining parsley.</string>
+
+
+    /*-----Main Course Recipe Three ----- */
+
+    <string name="MainCourseCredit3"><a href="https://www.thespruceeats.com/salmon-burgers-479174">
+        Salmon Burgers:By Linda Larsen</a></string>
+
+    <string name="MainCourseRecipeTitle3">Salmon Burgers</string>
+    <string name="MainCourseRecipeSubtitle3">Salmon burgers are a flavorful and delicious hamburger recipe made with canned salmon, saltine cracker crumbs, and English muffins.</string>
+    <string name="SalmonBurgers"><b><big>Salmon Burgers</big></b>
+
+
+    \n\n<li>1/3 cup minced onion.</li>
+    \n\n<li>1 clove garlic (minced).</li>
+    \n\n<li>1 tablespoon butter.</li>
+    \n\n<li>1 (14-ounce) can salmon (drained).</li>
+    \n\n<li>3/4 cup fine saltine cracker crumbs.</li>
+    \n\n<li>1/2 teaspoon dried thyme leaves.</li>
+    \n\n<li>1 egg, beaten.</li>
+	\n\n<li>1 tablespoon milk.</li>
+	\n\n<li>Salt and pepper to taste.</li>
+	\n\n<li>2 tablespoons olive oil.</li>
+	\n\n<li>4 English muffins (split).</li>
+	\n\n<li>2 tablespoons butter.</li>
+	\n\n<li>4 thin slices Muenster cheese.</li>
+	\n\n<li>1/4 cup mayonnaise.</li>
+	\n\n<li>1/4 cup honey mustard.</li>
+	\n\n<li>1 cup lettuce leaves.</li>
+
+</string>
+
+
+    <string name="MainCourseStep1Of3">Combine onion, garlic, and butter in​ a small microwave-safe bowl.
+	Microwave on high power for 1 to 2 minutes, stirring once during cooking time, until onion is tender.</string>
+
+    <string name="MainCourseStep2Of3">Place salmon into​ a bowl and remove skin and bones, if desired. Flake salmon.</string>
+
+    <string name="MainCourseStep3Of3">Add onion mixture, cracker crumbs, thyme, egg, milk, and salt and pepper to taste.
+	Mix gently but thoroughly. Shape mixture into four patties.</string>
+
+    <string name="MainCourseStep4Of3">Heat olive oil in large skillet. Add patties and cook over medium heat, turning once, until patties are browned and hot. </string>
+
+    <string name="MainCourseStep5Of3"> Meanwhile, butter the split English muffins and toast. Add Muenster cheese to​ the bottom of each muffin pair and toast until melted.</string>
+
+    <string name="MainCourseStep6Of3"> When salmon patties are done, place on melted cheese on muffin bottom. Add mayonnaise, honey mustard, lettuce, and top half of muffins. Serve immediately. </string>
+
+    /*-----Main Course Recipe Four ----- */
+
+    <string name="MainCourseCredit4"><a href="https://neighborfoodblog.com/2018/10/30-minute-homemade-chicken-noodle-soup.html">
+        Homemade Chicken Noodle Soup:BY COURTNEY</a></string>
+
+    <string name="MainCourseRecipeTitle4">Homemade Chicken Noodle Soup</string>
+    <string name="MainCourseRecipeSubtitle4">This comforting and easy homemade chicken noodle soup .</string>
+    <string name="HomemadeChickenNoodle"><b><big>Homemade Chicken Noodle Soup</big></b>
+
+
+    \n\n<li>1 Tablespoon olive oil.</li>
+    \n\n<li>1 small yellow onion, finely chopped.</li>
+    \n\n<li>3 carrots, peeled and sliced.</li>
+    \n\n<li>3 celery sticks, sliced.</li>
+    \n\n<li>3 cloves garlic, minced.</li>
+    \n\n<li>2 cups chopped cooked chicken.</li>
+    \n\n<li>1 15 oz. can diced tomatoes, drained.</li>
+	\n\n<li>6-8 cups low sodium chicken broth.</li>
+	\n\n<li>2 bay leaves.</li>
+	\n\n<li>1 teaspoon dried basil.</li>
+	\n\n<li>6 ounces egg noodles, store bought or homemade.</li>
+	\n\n<li>Handful of greens (spinach or kale both work well).</li>
+	\n\n<li>Salt and pepper, to taste.</li>
+
+
+</string>
+
+
+    <string name="MainCourseStep1Of4">Heat the olive oil in a large, heavy bottomed pot over medium heat. Add the onion, carrots, and celery and saute until starting to soften, about 5 minutes.
+	Stir in the garlic and saute until fragrant, about 1 minute.</string>
+
+    <string name="MainCourseStep2Of4">Add the chicken, tomatoes, broth, bay leaves, and basil. Bring the mixture to a boil.</string>
+
+    <string name="MainCourseStep3Of4">Stir in the egg noodles, return to a boil, and cook according to package directions, or until the pasta is tender.</string>
+
+    <string name="MainCourseStep4Of4">Stir in the greens and continue to cook for 2 to 3 minutes or until the greens are wilted.
+	Remove the bay leaf, taste, and season with salt and pepper as needed. </string>
+
+
+    /*-----Main Course Recipe Five ----- */
+
+    <string name="MainCourseCredit5"><a href="https://melaniemakes.com/thai-chile-peanut-meatballs/?fbclid=IwAR2oauihyAosYLSS7DdFmvtaG_rCBk-25VsaYZZIpYrfGN_z7RLAmbDUO9A">
+        Slow Cooker Thai Chili Peanut Meatballs:BY Melanie Bauer | Melanie Makes</a></string>
+
+    <string name="MainCourseRecipeTitle5">Slow Cooker Thai Chili Peanut Meatballs</string>
+    <string name="MainCourseRecipeSubtitle5">These Slow Cooker Thai Chili Peanut Meatballs take just five minutes to prepare.</string>
+    <string name="slowCookerThai"><b><big>slow Cooker Thai Chili Peanut Meatballs</big></b>
+
+
+    \n\n<li>28 ounce package frozen meatballs.</li>
+    \n\n<li>1/4 cup peanut butter.</li>
+    \n\n<li>2 14.5-ounce cans coconut milk.</li>
+    \n\n<li>2 tablespoons red chile paste.</li>
+    \n\n<li>4 teaspoons fish sauce.</li>
+    \n\n<li>3 tablespoons sugar.</li>
+    \n\n<li>chopped peanuts and parsley to garnish.</li>
+
+
+</string>
+
+
+    <string name="MainCourseStep1Of5">Add frozen meatballs to 6 quart slow cooker.</string>
+
+    <string name="MainCourseStep2Of5">Add peanut butter, coconut milk, red chili paste, fish sauce and sugar.</string>
+
+    <string name="MainCourseStep3Of5">Stir meatballs and sauce to combine.</string>
+
+    <string name="MainCourseStep4Of5">Cook on HIGH 2 to  4 hours or on LOW 4 to 6 hours. </string>
+
+    <string name="MainCourseStep5Of5">Stir meatballs and sauce to combine.</string>
+
+    <string name="MainCourseStep6Of5">Cook on HIGH uncovered an 30 minutes to allow sauce to thicken.</string>
+
+
+    /*-----Main Course Recipe Six ----- */
+
+    <string name="MainCourseCredit6"><a href="https://www.diaryofarecipecollector.com/one-pot-cajun-black-eyed-peas-rice.html?fbclid=IwAR2gsOEcmEHlnL7YzqheJuATZBwH_22Dm41FAdZ3sCTIAOzzq8qgNYoyQFU">
+        One Pot Cajun Black Eyed Peas &amp; Rice:Author: Jaren</a></string>
+
+    <string name="MainCourseRecipeTitle6">One Pot Cajun Black-Eyed Peas &amp; Rice</string>
+    <string name="MainCourseRecipeSubtitle6">This One Pot Cajun Black Eyed Peas &amp; Rice will be a new favorite recipe in your house too!It really doesn’t get easier. </string>
+    <string name="OnePotCajunBlackEyedPeas"><b><big>One Pot Cajun Black-Eyed Peas &amp; Rice</big></b>
+
+
+    \n\n<li>1.5 lbs ground beef.</li>
+    \n\n<li>1 onion, chopped.</li>
+    \n\n<li>1 small bell pepper, chopped.</li>
+    \n\n<li>2 stalks celery, chopped.</li>
+    \n\n<li>1 tsp creole seasoning.</li>
+    \n\n<li>1 10 oz. can Rotel*.</li>
+    \n\n<li>1 can sliced mushrooms.</li>
+	\n\n<li>1 envelope dry onion soup mix.</li>
+	\n\n<li>2 cans black-eyed peas, drained.</li>
+	\n\n<li>1 cup rice.</li>
+	 \n\n<li>1 cup water.</li>
+
+
+
+</string>
+
+
+    <string name="MainCourseStep1Of6">In a large pot, brown ground beef with onion, celery, and bell pepper. Add seasoning.</string>
+
+    <string name="MainCourseStep2Of6">Add Rotel, onion soup mix, mushrooms and stir well.</string>
+
+    <string name="MainCourseStep3Of6">Add black-eyed peas and stir.</string>
+
+    <string name="MainCourseStep4Of6">
+
+	\n<li>Add rice and water and stir. </li>
+    \n<li> Bring it to a boil.</li>
+    \n<li>Put a lid on the pot. </li>\n
+
+	Reduce heat down to low and let the rice cook for 20 to 30 minutes. Do not remove the lid before 20 minutes to make sure rice cooks well.
+	After about 20 minutes, you can check to see if rice is cooked. If not, replace the lid and cook it a little longer.
+	You can add a little more water to help steam the rice little more as well.
+
+	</string>
+
+
+    /*-----Main Course Recipe Seven ----- */
+
+    <string name="MainCourseCredit7"><a href="https://www.diaryofarecipecollector.com/one-pot-cajun-black-eyed-peas-rice.html?fbclid=IwAR2gsOEcmEHlnL7YzqheJuATZBwH_22Dm41FAdZ3sCTIAOzzq8qgNYoyQFU">
+        Easy Chicken Curry:Author:  By Melanie</a></string>
+
+    <string name="MainCourseRecipeTitle7">Easy Chicken Curry</string>
+    <string name="MainCourseRecipeSubtitle7">This Easy Chicken Curry is a dump and cook meal that is full of flavor and packed with proteins and veggies.</string>
+    <string name="ChickenCurry"><b><big>Easy Chicken Curry</big></b>
+
+
+    \n\n<li>1 15 ounce can coconut milk full fat.</li>
+    \n\n<li>1 15 ounce can tomato sauce.</li>
+    \n\n<li>1 cup chicken broth.</li>
+    \n\n<li>1 1/2 tablespoons curry powder.</li>
+    \n\n<li>1 teaspoon tumeric.</li>
+    \n\n<li>1 teaspoon cumin.</li>
+    \n\n<li>1 teaspoon coriander.</li>
+	\n\n<li>1 1/2 teaspoon salt.</li>
+	\n\n<li>1/2 teapsoon cayenne pepper.</li>
+	\n\n<li>3 cloves garlic minced.</li>
+	 \n\n<li>1 tablespoon fresh ginger grated.</li>
+	 \n\n<li>2 sweet potatoes peeled and diced (about 4 cups).</li>
+	 \n\n<li>1/2 onion sliced.</li>
+	 \n\n<li>1 1/2 pounds chicken breast.</li>
+	 \n\n<li>1 15 ounce can chickpeas drained, rinsed.</li>
+	 \n\n<li>2 cups fresh spinach packed.</li>
+	 \n\n<li>1 tablespoon cornstarch.</li>
+	 \n\n<li>1 tablespoon water.</li>
+	 \n\n<li>Rice cooked.</li>
+	 \n\n<li>Cilantro.</li>
+
+
+
+</string>
+
+    <string name="Instant"><b><big>For the Instant Pot:</big></b></string>
+
+
+    <string name="MainCourseStep1Of7">
+
+	 \n<li>Place tomato sauce, coconut milk, and chicken broth in the bottom of the Instant Pot.</li>
+	 \n\n<li>Mix in the seasonings, garlic, and ginger.</li>
+	 \n\n<li>Add the sweet potatoes, onions, and chicken. make sure everything is submerged in the sauce.</li>
+	 \n\n<li>Top with lid and cook on high pressure for 10 minutes followed by an 8 minute natural release and then a quick release.</li>
+
+	</string>
+
+    <string name="MainCourseStep2Of7">Take the chicken out and shred it on a cutting board into bite size chunks.</string>
+
+    <string name="MainCourseStep3Of7">
+
+	\n<li>Set the Instant Pot to "saute" function. </li>
+	 \n\n<li>Mix the cornstarch with water and then add to the curry along with the chickpeas, and fresh spinach.</li>
+	 \n\n<li>Simmer for about 3 minutes or until it starts to thicken. Mix the chicken back in and then turn off. </li>
+
+	</string>
+
+    <string name="MainCourseStep4Of7">Serve curry over rice and garnish with cilantro.</string>
+
+    <string name="SlowCooker"><b><big>For the Slow Cooker:</big></b></string>
+
+    <string name="MainCourseStep4Of7_2">
+
+	 \n<li>Place tomato sauce, coconut milk, and chicken broth in the bottom of the slow cooker.</li>
+	 \n\n<li>Mix in the seasonings, garlic, and ginger.</li>
+	 \n\n<li>Add the sweet potatoes, onions, and chicken.</li>
+	 \n\n<li>Make sure everything is submerged in the sauce.</li>
+	  \n\n<li>Top with lid and cook on low for 4-5 hours. </li>
+	  \n\n<li>Remove chicken, shred and add back with cornstarch mixture, and chickpeas.</li>
+	   \n\n<li>Cook on high for 30-45 minutes.</li>
+	   \n<li>Stir in the spinach and let sit until wilted.</li>
+
+	</string>
+
+
+    /*-----Main Course Recipe Eight ----- */
+
+    <string name="MainCourseCredit8"><a href="https://www.thespruceeats.com/sweet-and-spicy-crockpot-chicken-479530">
+        Sweet and Spicy Crockpot Chicken:By Linda Larsen</a></string>
+
+    <string name="MainCourseRecipeTitle8">Sweet and Spicy Crockpot Chicken</string>
+    <string name="MainCourseRecipeSubtitle8">This simple recipe for Sweet and Spicy Crockpot Chicken combines sweet and sour sauce, barbecue sauce, and chicken in a five ingredient recipe with a fabulous flavor.</string>
+    <string name="SweetandSpicyCrockpot"><b><big>Sweet and Spicy Crockpot Chicken</big></b>
+
+
+    \n\n<li>2 pounds boneless, skinless chicken thighs, sliced into strips.</li>
+    \n\n<li>3 cloves garlic, minced.</li>
+    \n\n<li>1 onion, chopped.</li>
+    \n\n<li>1 cup purchased sweet and sour sauce.</li>
+    \n\n<li>3/4 cup purchased barbecue sauce.</li>
+    \n\n<li>1-2 tablespoons cornstarch, if needed.</li>
+    \n\n<li>2 tablespoons water, if needed.</li>
+
+
+
+</string>
+
+
+    <string name="MainCourseStep1Of8">Combine the chicken, garlic, onion, sweet and sour sauce, and barbecue sauce in a 3 to 4 quart slow cooker and stir gently.</string>
+
+    <string name="MainCourseStep2Of8">Cover the slow cooker and cook on low for 7 to 9 hours until chicken is thoroughly cooked to 165°F.</string>
+
+    <string name="MainCourseStep3Of8">If you\'d like a thicker sauce, mix the cornstarch and water in a small bowl and add to the liquid in the crockpot; cover and cook 10-15 minutes until thickened.
+	Serve over hot cooked rice or couscous.</string>
+
+
+    /*-----Main Course Recipe Nine ----- */
+
+    <string name="MainCourseCredit9"><a href="https://www.thespruceeats.com/roasted-lemon-chicken-recipe-479524">
+        Roasted Lemon Chicken:By Linda Larsen</a></string>
+
+    <string name="MainCourseRecipeTitle9">Roasted Lemon Chicken</string>
+    <string name="MainCourseRecipeSubtitle9">This simple recipe for Sweet and Spicy Crockpot Chicken combines sweet and sour sauce, barbecue sauce, and chicken in a five ingredient recipe with a fabulous flavor.</string>
+    <string name="RoastedLemonChicken"><b><big>Roasted Lemon Chicken</big></b>
+
+
+    \n\n<li>1 (3 pound) whole chicken.</li>
+    \n\n<li>2 lemons, washed.</li>
+    \n\n<li>6 cloves garlic.</li>
+    \n\n<li>1-1/2 teaspoons coarse salt.</li>
+    \n\n<li>3 tablespoons butter, softened OR olive oil.</li>
+    \n\n<li>1 cup chicken broth.</li>
+
+
+
+
+</string>
+
+
+    <string name="MainCourseStep1Of9">Preheat the oven to 400°F.</string>
+
+    <string name="MainCourseStep2Of9">Remove the giblets and any fat from the chicken cavity; discard or freeze for later use.
+	Pat the chicken dry with paper towels; don\'t rinse it, or you\'ll spread bacteria around the kitchen.</string>
+
+    <string name="MainCourseStep3Of9">Roll the lemons on the counter with your hand to soften, then prick with a fork, going all the way through the rind to the flesh.
+	Cut one of the lemons in half.</string>
+
+    <string name="MainCourseStep4Of9">In a small bowl, mash the garlic with the salt until a paste forms.
+	Rub half this paste inside the chicken and then stuff one and one half of the lemons into the cavity.</string>
+
+    <string name="MainCourseStep5Of9">Add the butter to the rest of the garlic paste and rub the mixture on the outside of the chicken.</string>
+
+    <string name="MainCourseStep6Of9">Place the chicken in a shallow roasting pan, on a rack (you can use sliced onions for a rack for even more flavor) and pour the chicken broth into the bottom of the pan.
+	Squeeze the juice from the last lemon half into the broth.</string>
+
+    <string name="MainCourseStep7Of9">Roast the chicken for 60-65 minutes, basting with the pan juices halfway through the cooking time, until a meat thermometer inserted into the thickest part of the thigh registers 165°F,
+	juices run clear when pricked with a fork, and the drumstick moves easily in its socket.</string>
+
+
+    <string name="MainCourseStep8Of9">Cover the chicken and let rest for 10 minutes before carving. Serve with the pan juices.</string>
+
+    /*-----Main Course Recipe Ten ----- */
+
+    <string name="MainCourseCredit10"><a href="https://www.thespruceeats.com/crispy-oven-fried-chicken-thighs-or-legs-4084367">
+        Crispy Oven Fried Chicken Thighs or Legs:By Diana Rattray</a></string>
+
+    <string name="MainCourseRecipeTitle10">Crispy Oven Fried Chicken Thighs or Legs</string>
+    <string name="MainCourseRecipeSubtitle10">This recipe uses chicken thighs, but whole legs or a cut-up whole chicken can also be used.</string>
+    <string name="CrispyOvenFriedChicken"><b><big>Crispy Oven Fried Chicken Thighs or Legs</big></b>
+
+
+    \n\n<li>3 pounds bone-in chicken thighs (or whole legs, with skin).</li>
+    \n\n<li>2 cups buttermilk (well shaken).</li>
+    \n\n<li>1/2 cup hot sauce (such as Texas Pete\'s or Frank\'s).</li>
+    \n\n<li>1-1/22 cups all-purpose flour.</li>
+    \n\n<li>1 tablespoon kosher salt.</li>
+    \n\n<li>1 tablespoon freshly ground black pepper.</li>
+	\n\n<li>2 teaspoons ground paprika.</li>
+	\n\n<li>1/2-1cup vegetable oil (for frying).</li>
+
+
+
+
+</string>
+
+
+    <string name="MainCourseStep1Of10">In a food storage bag, combine the chicken thighs with the buttermilk and hot sauce. Refrigerate for 3 to 4 hours or overnight.</string>
+
+    <string name="MainCourseStep2Of10">Heat the oven to 350 F.</string>
+
+    <string name="MainCourseStep3Of10">Place a rack in a large, rimmed baking pan or roasting pan.</string>
+
+    <string name="MainCourseStep4Of10">Combine the flour, kosher salt, pepper, and paprika in a wide, shallow bowl or pie plate.</string>
+
+    <string name="MainCourseStep5Of10">Pour vegetable oil in a deep skillet or saucepan to a depth of about &#189; inch.</string>
+
+    <string name="MainCourseStep6Of10">Heat the oil to 360 F.</string>
+
+    <string name="MainCourseStep7Of10">Remove the chicken pieces from the buttermilk mixture, and dip in the flour mixture to coat thoroughly. Shake off excess.</string>
+
+    <string name="MainCourseStep8Of10">Arrange the coated chicken pieces in the hot oil,you might have to work in batches ,and fry for about 2 &#189; to 3 minutes on each side or until the coating is lightly browned. The chicken will brown more as it bakes.</string>
+
+    <string name="MainCourseStep9Of10">Remove the chicken to the rack in the baking pan.</string>
+
+    <string name="MainCourseStep10Of10">Bake the chicken thighs or legs for 35 to 45 minutes, or until the chicken registers at least 165 F on an instant-read food thermometer inserted into the thickest chicken thigh, not touching bone.</string>
+
+
+    /* -----------Dinner------------- */
+    <string name="dinner">Dinner</string>
+
+
+    <string name="dinnerTitle">Dinner Recipes</string>
+    <string name="dinnerRecipeTitle">Title</string>
+    <string name="dinnerRecipeSubtitle">Dinner recipe Subtitle</string>
+
+
+    /* ----------Side Dishes-------------- */
+    <string name="side">Side Dishes</string>
+
+
+    <string name="sideDishesTitle">Side dishes Recipes</string>
+    <string name="sideDishesRecipeTitle">Title</string>
+    <string name="sideDishesRecipeSubtitle">Side dishes recipe Subtitle</string>
+
+    /* ----------Snacks-------------- */
+    <string name="snack">Snacks</string>
+
+
+    <string name="snackTitle">Snacks Recipes</string>
+    <string name="snackRecipeTitle">Title</string>
+    <string name="snackRecipeSubtitle">Snacks recipe Subtitle</string>
+
+    /* -----------Dessert------------- */
+    <string name="dessert">Dessert</string>
+
+
+    <string name="dessertTitle">Dessert Recipes</string>
+    <string name="dessertRecipeTitle">Title</string>
+    <string name="dessertRecipeSubtitle">Dessert recipe Subtitle</string>
+
+    /* -----------Salads------------- */
+    <string name="salad">Salads</string>
+
+
+    <string name="saladTitle">Salad Recipes</string>
+    <string name="saladRecipeTitle">Title</string>
+    <string name="saladRecipeSubtitle">Salad recipe Subtitle</string>
+    /* ------------------------ */
+
+
+    /* ----------General Strings-------------- */
+    <string name="Procedure">Procedure</string>
+    <string name="recipe">Recipes</string>
+    <string name="msg">The End . Enjoy</string>
+    <string name="cms">More to Come Soon......</string>
+
+
+    /* ------------------------ */
+    <string name="title_activity_breakfast">Breakfast</string>
+    <string name="title_activity_lunch">Lunch</string>
+    <string name="title_activity_main_course">Main_course</string>
+    <string name="title_activity_dinner">Dinner</string>
+    <string name="title_activity_side_dishes">Side_dishes</string>
+    <string name="title_activity_snacks">Snacks</string>
+    <string name="title_activity_dessert">Dessert</string>
+    <string name="title_activity_salads">Salads</string>
+    <string name="title_activity_maincourse">Maincourse</string>
+    <string name="title_activity_break_fast">BreakFast</string>
+    <string name="title_activity_salad">Salad</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="exit">Exit</string>
+    <string name="exit_msg">Are you sure?</string>
+
+    /* ------------------------ */
+
+</resources>
